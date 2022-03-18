@@ -1,5 +1,4 @@
 Hola, I'm Sayak Ghosh! 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Webhibe Technologies
 - 🌱 I’m currently learning React Native
