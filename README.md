@@ -1,6 +1,6 @@
 Hola, I'm Sayak Ghosh! 👋
 
-- 🔭 I’m currently working for Webhibe Technologies
+- 🔭 I’m currently working for [Webhibe Technologies](https://webhibe.com/home)
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with React JS documentation
