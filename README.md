@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [FaceBook](https://www.facebook.com/profile.php?id=100057888337525), Email: sayak21318@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My dream vacation is going to Cappadocia and riding in a hot air balloon. 
+- <Img src='https://github-readme-stats.vercel.app/api?username=sayak21318&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515' />
