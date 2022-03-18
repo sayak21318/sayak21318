@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with React JS documentation
 - 💬 Ask me about React Native and JavaScript
-- 📫 How to reach me: Email
+- 📫 How to reach me: Email: sayak21318@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My dream vacation is going to Cappadocia and riding in a hot air balloon. 
 
